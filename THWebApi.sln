@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "THWebApi", "THWebApi\THWebApi.csproj", "{B42F0C5E-BE08-46D0-BDD5-E021E32E8756}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B42F0C5E-BE08-46D0-BDD5-E021E32E8756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B42F0C5E-BE08-46D0-BDD5-E021E32E8756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B42F0C5E-BE08-46D0-BDD5-E021E32E8756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B42F0C5E-BE08-46D0-BDD5-E021E32E8756}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EC558D0-F0B6-4C15-B855-E71A208EF264}
+	EndGlobalSection
+EndGlobal
